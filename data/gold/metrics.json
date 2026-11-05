@@ -1,0 +1,22 @@
+{
+ "n": 40,
+ "kappa": 0.9168399168399167,
+ "accuracy": 0.95,
+ "cm": {
+  "assert|assert": 12,
+  "assert|adopt": 0,
+  "assert|reject": 1,
+  "adopt|assert": 0,
+  "adopt|adopt": 6,
+  "adopt|reject": 1,
+  "reject|assert": 0,
+  "reject|adopt": 0,
+  "reject|reject": 20
+ },
+ "f1": {
+  "assert": 0.9600000000000001,
+  "adopt": 0.923076923076923,
+  "reject": 0.9523809523809523
+ },
+ "term_ok": 40
+}

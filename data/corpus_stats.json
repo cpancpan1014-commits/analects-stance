@@ -1,0 +1,49 @@
+{
+ "chapters": 501,
+ "pian": 20,
+ "layers": {
+  "heyan": {
+   "chars": 24126,
+   "chapters_non_empty": 444
+  },
+  "shu": {
+   "chars": 147107,
+   "chapters_non_empty": 470
+  },
+  "zhuxi": {
+   "chars": 71421,
+   "chapters_non_empty": 457
+  },
+  "kogi": {
+   "chars": 100582,
+   "chapters_non_empty": 440
+  },
+  "cho": {
+   "chars": 159206,
+   "chapters_non_empty": 418
+  },
+  "jing": {
+   "chars": 21989,
+   "chapters_non_empty": 501
+  }
+ },
+ "chars_removed": {
+  "heyan": 0,
+  "shu": 0,
+  "zhuxi": 56,
+  "kogi": 857,
+  "cho": 1326,
+  "jing": 2184
+ },
+ "kogi_suppressed": [
+  "04-16",
+  "07-17",
+  "08-15",
+  "12-21",
+  "12-22",
+  "15-14"
+ ],
+ "chapters_with_all_five_layers": 339,
+ "chapters_with_any_layer": 496,
+ "chapters_kogi_over_30_chars": 431
+}

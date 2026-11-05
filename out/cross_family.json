@@ -1,0 +1,149 @@
+[
+ {
+  "family": "DeepSeek V4-Flash",
+  "n": 37,
+  "agree": 94.6,
+  "kappa": 0.906,
+  "ci": [
+   0.75,
+   1.0
+  ],
+  "macro_f1": 0.938,
+  "cn": {
+   "n": 20,
+   "agree": 90.0,
+   "kappa": 0.838
+  },
+  "jp": {
+   "n": 17,
+   "agree": 100.0,
+   "kappa": 1.0
+  }
+ },
+ {
+  "family": "GLM-5.3-Flash",
+  "n": 37,
+  "agree": 81.1,
+  "kappa": 0.69,
+  "ci": [
+   0.48,
+   0.87
+  ],
+  "macro_f1": 0.764,
+  "cn": {
+   "n": 20,
+   "agree": 80.0,
+   "kappa": 0.689
+  },
+  "jp": {
+   "n": 17,
+   "agree": 82.4,
+   "kappa": 0.685
+  }
+ },
+ {
+  "family": "Qwen-max",
+  "n": 37,
+  "agree": 67.6,
+  "kappa": 0.496,
+  "ci": [
+   0.27,
+   0.71
+  ],
+  "macro_f1": 0.628,
+  "cn": {
+   "n": 20,
+   "agree": 65.0,
+   "kappa": 0.47
+  },
+  "jp": {
+   "n": 17,
+   "agree": 70.6,
+   "kappa": 0.522
+  }
+ },
+ {
+  "family": "Qwen-plus",
+  "n": 37,
+  "agree": 64.9,
+  "kappa": 0.449,
+  "ci": [
+   0.22,
+   0.66
+  ],
+  "macro_f1": 0.586,
+  "cn": {
+   "n": 20,
+   "agree": 60.0,
+   "kappa": 0.396
+  },
+  "jp": {
+   "n": 17,
+   "agree": 70.6,
+   "kappa": 0.509
+  }
+ },
+ {
+  "family": "Gemini-3.5-Flash",
+  "n": 37,
+  "agree": 75.7,
+  "kappa": 0.605,
+  "ci": [
+   0.38,
+   0.82
+  ],
+  "macro_f1": 0.716,
+  "cn": {
+   "n": 20,
+   "agree": 65.0,
+   "kappa": 0.47
+  },
+  "jp": {
+   "n": 17,
+   "agree": 88.2,
+   "kappa": 0.778
+  }
+ },
+ {
+  "family": "GPT-5",
+  "n": 37,
+  "agree": 73.0,
+  "kappa": 0.571,
+  "ci": [
+   0.34,
+   0.79
+  ],
+  "macro_f1": 0.703,
+  "cn": {
+   "n": 20,
+   "agree": 70.0,
+   "kappa": 0.54
+  },
+  "jp": {
+   "n": 17,
+   "agree": 76.5,
+   "kappa": 0.598
+  }
+ },
+ {
+  "family": "Claude Opus 5",
+  "n": 37,
+  "agree": 75.7,
+  "kappa": 0.59,
+  "ci": [
+   0.35,
+   0.81
+  ],
+  "macro_f1": 0.692,
+  "cn": {
+   "n": 20,
+   "agree": 70.0,
+   "kappa": 0.528
+  },
+  "jp": {
+   "n": 17,
+   "agree": 82.4,
+   "kappa": 0.655
+  }
+ }
+]

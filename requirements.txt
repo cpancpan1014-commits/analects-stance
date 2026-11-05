@@ -1,0 +1,5 @@
+# Runtime for the pipeline: standard library only, plus variant folding.
+# opencc is optional in code but required for the published numbers: without it
+# 620 correct terms (7%) fail the canonical-text check and never enter the graph.
+opencc-python-reimplemented>=0.1.7
+matplotlib>=3.8

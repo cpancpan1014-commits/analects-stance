@@ -1,0 +1,6 @@
+【少样本·何晏集解体例（汇编，引述即采纳）】01-01
+{"chapter":"01-01","annotator":"heyan","items":[
+ {"term":"子","gloss":"男子之通稱，謂孔子","type":"名物","stance":"adopt","source":"馬融","evidence":"馬曰：子者，男子之通稱，謂孔子也"},
+ {"term":"時","gloss":"學者以時誦習之","type":"字義","stance":"adopt","source":"王肅","evidence":"王曰：時者，學者以時誦習之"},
+ {"term":"朋","gloss":"同門曰朋","type":"字義","stance":"adopt","source":"包咸","evidence":"包曰：同門曰朋"},
+ {"term":"慍","gloss":"怒也","type":"字義","stance":"assert","source":null,"evidence":"慍，怒也"}]}

@@ -1,0 +1,9 @@
+【章号】{chapter}
+【原文】{text}
+
+【注家】{annotator}（{era}），层标识 = {layer}
+{reference}
+【注文】
+{note}
+
+请抽取该注家在本章中的训释条目。

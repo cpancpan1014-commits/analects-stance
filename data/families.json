@@ -1,0 +1,13 @@
+{
+ "_comment": "One row per model family judged blind on the 37 gold items. `field` is the JSON key its runner wrote; all external runners reused the first runner's key name.",
+ "families": [
+  {"name": "DeepSeek V4-Flash", "field": "model_stance", "file": null,
+   "note": "primary model; labels come from data/gold/gold_40.csv"},
+  {"name": "GLM-5.3-Flash", "field": "glm_stance", "file": "out/second_coder_gold.jsonl"},
+  {"name": "Qwen-max", "field": "glm_stance", "file": "out/second_coder_gold_qwenmax.jsonl"},
+  {"name": "Qwen-plus", "field": "glm_stance", "file": "out/second_coder_gold_qwen.jsonl"},
+  {"name": "Gemini-3.5-Flash", "field": "glm_stance", "file": "out/second_coder_gemini.jsonl"},
+  {"name": "GPT-5", "field": "glm_stance", "file": "out/second_coder_gpt5std.jsonl"},
+  {"name": "Claude Opus 5", "field": "glm_stance", "file": "out/second_coder_claude.jsonl"}
+ ]
+}

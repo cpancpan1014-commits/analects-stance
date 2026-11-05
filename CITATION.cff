@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this corpus or code, please cite both the paper and this repository."
+title: "Analects stance corpus and dispute graph"
+type: software
+version: 1.0.0
+date-released: 2026-11-05
+license: MIT
+abstract: >-
+  Seven commentaries on the Analects (five Chinese, two Japanese, all in literary
+  Chinese), annotated for stance at the level of the individual gloss, with the
+  code that builds a directed dispute graph from the annotations and measures how
+  many readings a term carries.
+authors:
+  - family-names: Pan
+    given-names: Cheng
+    affiliation: "School of International Business and Language Studies, Guangdong University of Science and Technology"
+    email: pancheng1@gdust.edu.cn
+  - family-names: Wu
+    given-names: Di
+    affiliation: "School of International Business and Language Studies, Guangdong University of Science and Technology"
+repository-code: "https://github.com/cpancpan1014-commits/analects-stance"
+keywords:
+  - classical Chinese
+  - stance detection
+  - commentarial literature
+  - Analects
+  - large language models
+  - digital humanities
+preferred-citation:
+  type: conference-paper
+  title: "How Well Do LLMs Read Classical Commentary? Stance-Aware Extraction from a Sino-Japanese Analects Corpus"
+  authors:
+    - family-names: Pan
+      given-names: Cheng
+    - family-names: Wu
+      given-names: Di
+  conference:
+    name: "2026 International Conference on Information Science and Education Engineering (ICISE-IE)"
+  year: 2026
+  notes: "IEEE, in press. Replace with the DOI on publication."

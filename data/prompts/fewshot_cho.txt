@@ -1,0 +1,6 @@
+【少样本·徂徕论语徵体例（自撰，assert 与 reject 并存）】01-01
+{"chapter":"01-01","annotator":"cho","items":[
+ {"term":"學","gloss":"學先王之道也","type":"義理","stance":"assert","source":null,"evidence":"單言「學」者，學先王之道也"},
+ {"term":"學","gloss":"效也，後覺效先覺","type":"字義","stance":"reject","source":"朱熹","evidence":"朱子以「效」訓「學」，豈可混乎"},
+ {"term":"慍","gloss":"心有所怫鬱也，不必訓怒","type":"字義","stance":"assert","source":null,"evidence":"愠，謂心有所怫鬱也"},
+ {"term":"慍","gloss":"含怒意","type":"字義","stance":"reject","source":"朱熹","evidence":"「愠」訓「含怒」意，亦至於《南風》「解愠」而窮矣"}]}

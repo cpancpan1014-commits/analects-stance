@@ -1,0 +1,6 @@
+【少样本·论语或问体例（朱子自设问答：先立己说，再逐条评骘诸家去取）】
+{"chapter":"01-01","annotator":"huowen","items":[
+ {"term":"學","gloss":"有所效於彼而求其成於我","type":"字義","stance":"assert","source":null,"evidence":"所謂學者有所效於彼而求其成於我之謂也"}]}
+{"chapter":"01-16","annotator":"huowen","items":[
+ {"term":"知","gloss":"求為可知","type":"句意","stance":"reject","source":"楊氏","evidence":"楊氏求為可知之說則非此章之所指矣"},
+ {"term":"知","gloss":"充知有命","type":"句意","stance":"reject","source":"呂氏","evidence":"呂氏充知有命之說皆非至論"}]}

@@ -1,0 +1,83 @@
+{
+ "rule": "similarity(kogi, cho) >= 0.85 after punctuation removal, and the kogi layer at least 50 characters long",
+ "source": "the edition binds Rongo Kogi and Rongo Cho in one volume and mis-assigns page ranges where chapters run short, so the Kogi layer carries Cho text",
+ "chapters": [
+  {
+   "chapter": "04-16",
+   "pian": "里仁",
+   "similarity_kogi_vs_cho": 0.971,
+   "kogi_chars": 661,
+   "contains_self_reference": false,
+   "kogi_head": "矣。君子者，在上之人也。雖在下而有在上之德，亦謂之君子；小人者，細民也。雖在上而有細民之心，亦謂之小人。義者，《詩》書》",
+   "cho_head": "君子喻於義，小人喻於利”，君子者，在上之人也。雖在下而有在上之德，亦謂之君子；小人者，細民也。雖在上而有細民之心，亦謂之",
+   "action": "kogi_status=suppressed"
+  },
+  {
+   "chapter": "07-17",
+   "pian": "述而",
+   "similarity_kogi_vs_cho": 0.851,
+   "kogi_chars": 464,
+   "contains_self_reference": false,
+   "kogi_head": "詩》、《書》、執禮，雅，常也。執，守也。其執守禮者，雖求必出於詩〉〈書》，皆常言之也。子所雅言，《詩》書》句；執禮，皆雅",
+   "cho_head": "子所雅言，《詩》書》”句；“執禮，皆雅言也”句。孔安國曰：“雅言，正言也。”鄭玄曰：“讀先王典法，必正言其音，然後義全，",
+   "action": "kogi_status=suppressed"
+  },
+  {
+   "chapter": "08-15",
+   "pian": "泰伯",
+   "similarity_kogi_vs_cho": 0.888,
+   "kogi_chars": 451,
+   "contains_self_reference": false,
+   "kogi_head": "子曰：《洋洋乎盈耳哉！師攀，魯樂師，名摯也。始，指未適齊之前。《關睢》，說見前。亂，樂之卒章也。洋洋，美盛意。言今則人去",
+   "cho_head": "鄭玄曰：“師摯，魯大師之名。始，猶首也。周道衰微，鄭衛之音作，正樂廢而失節。魯大師摯識《關雎》之聲，而首理其亂者。洋洋盈",
+   "action": "kogi_status=suppressed"
+  },
+  {
+   "chapter": "12-21",
+   "pian": "顏淵",
+   "similarity_kogi_vs_cho": 0.857,
+   "kogi_chars": 842,
+   "contains_self_reference": false,
+   "kogi_head": "此章“知人”以下，專言知之德甚大也。樊遲之所疑，夫子之所答，子夏之所述，皆在於知矣。遲初非疑仁知之相悖，夫子亦非兼仁知而",
+   "cho_head": "樊遲從遊於舞雩之下”，門人詳錄是者，何謂也？樊遲聞夫子之教而謹錄焉。書其地者，謹之道也。且古者侍於君子，未見顏色而言，謂",
+   "action": "kogi_status=suppressed"
+  },
+  {
+   "chapter": "12-22",
+   "pian": "顏淵",
+   "similarity_kogi_vs_cho": 0.97,
+   "kogi_chars": 575,
+   "contains_self_reference": true,
+   "kogi_head": "樊遲問仁，子曰：愛人。謂仁人也。蓋仁為安民之德，然徒以安民爲仁，則小子欲爲仁而不可得焉，故告以仁者之愛人也。知人，亦謂知",
+   "cho_head": "樊遲問仁，子曰：“愛人。”謂仁人也。蓋仁為安民之德，然徒以安民爲仁，則小子欲爲仁而不可得焉，故告以仁者之愛人也。知人，亦",
+   "action": "kogi_status=suppressed"
+  },
+  {
+   "chapter": "15-14",
+   "pian": "衞靈公",
+   "similarity_kogi_vs_cho": 0.868,
+   "kogi_chars": 82,
+   "contains_self_reference": false,
+   "kogi_head": "矣。躬自厚孔安國曰：責已厚，責人薄，所以遠怨咎。是補一責字，亦古來相傳之說也。仁齋曰：自治厚而責人薄。是其意以爲無責字，",
+   "cho_head": "躬自厚而薄責於人，則遠怨矣”，孔安國曰：“責已厚，責人薄，所以遠怨咎。”是補一“責”字，亦古來相傳之說也。仁齋曰：“自治",
+   "action": "kogi_status=suppressed"
+  }
+ ],
+ "n_chapters": 6,
+ "similarity_range": [
+  0.851,
+  0.971
+ ],
+ "near_misses_not_flagged": [
+  {
+   "chapter": "11-05",
+   "pian": "先進",
+   "similarity_kogi_vs_cho": 0.889,
+   "kogi_chars": 29,
+   "contains_self_reference": false,
+   "kogi_head": "白圭，《抑》詩也。不言《抑》而言白圭，其所三復，唯一章已。",
+   "cho_head": "南容三復白圭，《抑》詩也。不言《抑》而言“白圭”，其所三復，唯一章已。",
+   "action": "not flagged: layer shorter than 50 chars"
+  }
+ ]
+}

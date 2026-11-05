@@ -1,0 +1,82 @@
+[
+ {
+  "tau": 0.5,
+  "comparable": 1776,
+  "disputed": 1275,
+  "rate": 71.8,
+  "mean_readings": 2.26,
+  "three_or_more": 588
+ },
+ {
+  "tau": 0.55,
+  "comparable": 1776,
+  "disputed": 1339,
+  "rate": 75.4,
+  "mean_readings": 2.38,
+  "three_or_more": 651
+ },
+ {
+  "tau": 0.6,
+  "comparable": 1776,
+  "disputed": 1359,
+  "rate": 76.5,
+  "mean_readings": 2.42,
+  "three_or_more": 670
+ },
+ {
+  "tau": 0.63,
+  "comparable": 1776,
+  "disputed": 1380,
+  "rate": 77.7,
+  "mean_readings": 2.45,
+  "three_or_more": 685
+ },
+ {
+  "tau": 0.66,
+  "comparable": 1776,
+  "disputed": 1383,
+  "rate": 77.9,
+  "mean_readings": 2.46,
+  "three_or_more": 688
+ },
+ {
+  "tau": 0.7,
+  "comparable": 1776,
+  "disputed": 1432,
+  "rate": 80.6,
+  "mean_readings": 2.54,
+  "three_or_more": 722
+ },
+ {
+  "tau": 0.75,
+  "comparable": 1776,
+  "disputed": 1440,
+  "rate": 81.1,
+  "mean_readings": 2.57,
+  "three_or_more": 729
+ },
+ {
+  "tau": 0.8,
+  "comparable": 1776,
+  "disputed": 1468,
+  "rate": 82.7,
+  "mean_readings": 2.6,
+  "three_or_more": 740
+ },
+ {
+  "tau": 0.85,
+  "comparable": 1776,
+  "disputed": 1518,
+  "rate": 85.5,
+  "mean_readings": 2.7,
+  "three_or_more": 784
+ },
+ {
+  "tau": 0.9,
+  "comparable": 1776,
+  "disputed": 1548,
+  "rate": 87.2,
+  "mean_readings": 2.76,
+  "three_or_more": 819
+ }
+]

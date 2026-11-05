@@ -1,0 +1,37 @@
+{
+ "heyan": {
+  "cn": "何晏集解",
+  "era": "魏",
+  "fewshot": "fewshot_heyan.txt"
+ },
+ "shu": {
+  "cn": "邢昺疏",
+  "era": "北宋",
+  "fewshot": null
+ },
+ "zhuxi": {
+  "cn": "朱熹集注",
+  "era": "南宋",
+  "fewshot": null
+ },
+ "kogi": {
+  "cn": "伊藤仁斋论语古义",
+  "era": "江户前期",
+  "fewshot": null
+ },
+ "cho": {
+  "cn": "荻生徂徕论语征",
+  "era": "江户中期",
+  "fewshot": "fewshot_cho.txt"
+ },
+ "liu": {
+  "cn": "刘宝楠论语正义",
+  "era": "清",
+  "fewshot": "fewshot_liu.txt"
+ },
+ "huowen": {
+  "cn": "朱熹论语或问",
+  "era": "南宋",
+  "fewshot": "fewshot_huowen.txt"
+ }
+}

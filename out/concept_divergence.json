@@ -1,0 +1,194 @@
+[
+ {
+  "term": "學",
+  "n_chapters": 13,
+  "n_comparable": 8,
+  "n_disputed": 8,
+  "mean_readings": 3.25,
+  "n_doctrinal_disputed": 6
+ },
+ {
+  "term": "教",
+  "n_chapters": 2,
+  "n_comparable": 0,
+  "n_disputed": 0,
+  "mean_readings": 0.0,
+  "n_doctrinal_disputed": 0
+ },
+ {
+  "term": "仁",
+  "n_chapters": 30,
+  "n_comparable": 23,
+  "n_disputed": 23,
+  "mean_readings": 3.0869565217391304,
+  "n_doctrinal_disputed": 17
+ },
+ {
+  "term": "禮",
+  "n_chapters": 11,
+  "n_comparable": 7,
+  "n_disputed": 6,
+  "mean_readings": 3.0,
+  "n_doctrinal_disputed": 3
+ },
+ {
+  "term": "道",
+  "n_chapters": 16,
+  "n_comparable": 11,
+  "n_disputed": 8,
+  "mean_readings": 2.875,
+  "n_doctrinal_disputed": 6
+ },
+ {
+  "term": "君子",
+  "n_chapters": 24,
+  "n_comparable": 9,
+  "n_disputed": 8,
+  "mean_readings": 2.5,
+  "n_doctrinal_disputed": 2
+ },
+ {
+  "term": "知",
+  "n_chapters": 10,
+  "n_comparable": 5,
+  "n_disputed": 4,
+  "mean_readings": 2.75,
+  "n_doctrinal_disputed": 2
+ },
+ {
+  "term": "思",
+  "n_chapters": 5,
+  "n_comparable": 1,
+  "n_disputed": 1,
+  "mean_readings": 2.0,
+  "n_doctrinal_disputed": 1
+ },
+ {
+  "term": "習",
+  "n_chapters": 2,
+  "n_comparable": 2,
+  "n_disputed": 2,
+  "mean_readings": 2.5,
+  "n_doctrinal_disputed": 2
+ },
+ {
+  "term": "德",
+  "n_chapters": 7,
+  "n_comparable": 3,
+  "n_disputed": 3,
+  "mean_readings": 3.6666666666666665,
+  "n_doctrinal_disputed": 2
+ },
+ {
+  "term": "義",
+  "n_chapters": 8,
+  "n_comparable": 5,
+  "n_disputed": 5,
+  "mean_readings": 2.8,
+  "n_doctrinal_disputed": 4
+ },
+ {
+  "term": "信",
+  "n_chapters": 12,
+  "n_comparable": 8,
+  "n_disputed": 8,
+  "mean_readings": 2.875,
+  "n_doctrinal_disputed": 6
+ },
+ {
+  "term": "忠",
+  "n_chapters": 5,
+  "n_comparable": 4,
+  "n_disputed": 4,
+  "mean_readings": 3.0,
+  "n_doctrinal_disputed": 3
+ },
+ {
+  "term": "孝",
+  "n_chapters": 3,
+  "n_comparable": 0,
+  "n_disputed": 0,
+  "mean_readings": 0.0,
+  "n_doctrinal_disputed": 0
+ },
+ {
+  "term": "政",
+  "n_chapters": 4,
+  "n_comparable": 2,
+  "n_disputed": 1,
+  "mean_readings": 3.0,
+  "n_doctrinal_disputed": 1
+ },
+ {
+  "term": "性",
+  "n_chapters": 1,
+  "n_comparable": 1,
+  "n_disputed": 1,
+  "mean_readings": 4.0,
+  "n_doctrinal_disputed": 1
+ },
+ {
+  "term": "命",
+  "n_chapters": 4,
+  "n_comparable": 2,
+  "n_disputed": 2,
+  "mean_readings": 2.5,
+  "n_doctrinal_disputed": 2
+ },
+ {
+  "term": "心",
+  "n_chapters": 1,
+  "n_comparable": 0,
+  "n_disputed": 0,
+  "mean_readings": 0.0,
+  "n_doctrinal_disputed": 0
+ },
+ {
+  "term": "文",
+  "n_chapters": 13,
+  "n_comparable": 8,
+  "n_disputed": 7,
+  "mean_readings": 4.142857142857143,
+  "n_doctrinal_disputed": 2
+ },
+ {
+  "term": "詩",
+  "n_chapters": 1,
+  "n_comparable": 0,
+  "n_disputed": 0,
+  "mean_readings": 0.0,
+  "n_doctrinal_disputed": 0
+ },
+ {
+  "term": "行",
+  "n_chapters": 7,
+  "n_comparable": 5,
+  "n_disputed": 4,
+  "mean_readings": 2.5,
+  "n_doctrinal_disputed": 2
+ },
+ {
+  "term": "言",
+  "n_chapters": 4,
+  "n_comparable": 3,
+  "n_disputed": 3,
+  "mean_readings": 2.3333333333333335,
+  "n_doctrinal_disputed": 1
+ },
+ {
+  "term": "過",
+  "n_chapters": 5,
+  "n_comparable": 3,
+  "n_disputed": 2,
+  "mean_readings": 2.0,
+  "n_doctrinal_disputed": 0
+ },
+ {
+  "term": "恥",
+  "n_chapters": 2,
+  "n_comparable": 0,
+  "n_disputed": 0,
+  "mean_readings": 0.0,
+  "n_doctrinal_disputed": 0
+ }
+]

@@ -1,0 +1,4 @@
+【少样本·论语正义体例（先引注，再以「正义曰」自抒；对朱注多有驳正）】12-01
+{"chapter":"12-01","annotator":"liu","items":[
+ {"term":"己","gloss":"身也，約身之訓","type":"字義","stance":"assert","source":null,"evidence":"凡言「克己」，皆如约身之训"},
+ {"term":"己","gloss":"私","type":"字義","stance":"reject","source":"朱熹","evidence":"朱子《集注》又直训「己」为「私」，并失之矣"}]}
