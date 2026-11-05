@@ -5,6 +5,7 @@ type: software
 version: 1.0.0
 date-released: 2026-11-05
 license: MIT
+doi: "10.5281/zenodo.23983960"
 abstract: >-
   Seven commentaries on the Analects (five Chinese, two Japanese, all in literary
   Chinese), annotated for stance at the level of the individual gloss, with the
@@ -37,4 +38,4 @@ preferred-citation:
   conference:
     name: "2026 International Conference on Information Science and Education Engineering (ICISE-IE)"
   year: 2026
-  notes: "IEEE, in press. Replace with the DOI on publication."
+  notes: "IEEE, in press. Add the proceedings DOI on publication; the archived version of this repository is DOI 10.5281/zenodo.23983961 (v1.0.0)."

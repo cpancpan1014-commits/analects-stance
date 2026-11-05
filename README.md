@@ -1,5 +1,7 @@
 # Analects stance corpus and dispute graph
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23983960.svg)](https://doi.org/10.5281/zenodo.23983960)
+
 Data and code for *How Well Do LLMs Read Classical Commentary? Stance-Aware
 Extraction from a Sino-Japanese Analects Corpus* (ICISE-IE 2026).
 
@@ -110,3 +112,10 @@ University of Science and Technology, Dongguan, China.
 
 If you use the data, cite the paper and the repository version. `CITATION.cff`
 has both. Code is MIT, data is CC BY 4.0.
+
+The archive is on Zenodo under two DOIs, and the difference matters:
+
+| DOI | Resolves to | Use it when |
+|---|---|---|
+| `10.5281/zenodo.23983960` | always the latest version (concept DOI) | you want a citation that will not break when a later version appears |
+| `10.5281/zenodo.23983961` | v1.0.0 exactly (version DOI) | you need to pin the exact archive the paper's numbers came from |
